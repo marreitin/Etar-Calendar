@@ -15,8 +15,7 @@
 -->
 
 <!-- package name must be unique so suffix with "tests" so package loader doesn't ignore us -->
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.calendar.tests">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application>
         <uses-library android:name="android.test.runner" />

@@ -89,6 +89,7 @@ android {
     kotlinOptions {
         jvmTarget = "11"
     }
+    namespace 'ws.xsoh.etar'
 }
 
 dependencies {
